@@ -19,21 +19,14 @@ This project is a Python-based tool that **extracts text from web pages, summari
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/automated-summarizer-translator.git
+git clone https://github.com/ManojMuruganA/Tech_Titans.git
 cd automated-summarizer-translator
 ```
 
 ### **2️⃣ Install Dependencies**  
 Ensure you have **Python 3.8+** installed. Then, install the required packages:  
 ```sh
-pip install -r requirements.txt
-```
-
-### **3️⃣ Download NLTK Resources**  
-Run this command to download required datasets for summarization:  
-```python
-import nltk
-nltk.download('punkt')
+pip install Flask requests beautifulsoup4 transformers googletrans==4.0.0-rc1
 ```
 
 ---
