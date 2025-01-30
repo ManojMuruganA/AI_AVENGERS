@@ -38,52 +38,15 @@ pip install Flask requests beautifulsoup4 transformers googletrans==4.0.0-rc1
 python main.py
 ```
 
-### **Example Usage in Python Code**  
-```python
-from summarizer import summarize_content
-from translator import translate_text
-
-url = "https://example.com"
-summary = summarize_content(url, method="sumy", num_sentences=3)
-translated_summary = translate_text(summary, target_language="fr")
-
-print("Summarized Text:", summary)
-print("Translated Text:", translated_summary)
-```
-
----
-
-## 🧩 Project Structure
-
-```
-📂 automated-summarizer-translator
-│── 📄 main.py                 # Main script to run summarization and translation
-│── 📄 summarizer.py           # Module for text summarization
-│── 📄 translator.py           # Module for translation
-│── 📄 requirements.txt        # List of dependencies
-│── 📄 README.md               # Project documentation
-│── 📂 datasets/               # (Optional) Sample text datasets
-│── 📂 tests/                  # Unit tests for summarization & translation
-```
-
----
-
-## 🔧 Customization
-
-- Change the **summarization method** (`"nltk"` or `"sumy"`) in `summarizer.py`.  
-- Modify the **translation language** by changing the `target_language` parameter in `translator.py`.  
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
 ---
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit a pull request.
+
+## Contact
+
+📧 Email: manojmurugan66@gmail.com
 
 ---
 
