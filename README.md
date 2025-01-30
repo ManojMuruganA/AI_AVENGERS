@@ -52,5 +52,4 @@ Contributions are welcome! Feel free to submit a pull request.
 
 ## ✨ Author
 
-Developed by **[Your Name]**  
-GitHub: [your-username](https://github.com/your-username)
+Developed by **Tech Titans**  
