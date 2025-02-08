@@ -1,4 +1,4 @@
-# Automated Website Content Summarizer and Translator
+# AI Powered Web content interpreter
 
 ## 🚀 Summarize and Translate Website Content with Ease!
 
@@ -52,4 +52,4 @@ Contributions are welcome! Feel free to submit a pull request.
 
 ## ✨ Author
 
-Developed by **Tech Titans**  
+Developed by **AI AVENGERS**  
