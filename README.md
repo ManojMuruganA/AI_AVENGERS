@@ -26,7 +26,7 @@ cd automated-summarizer-translator
 ### **2️⃣ Install Dependencies**  
 Ensure you have **Python 3.8+** installed. Then, install the required packages:  
 ```sh
-pip install Flask requests beautifulsoup4 transformers googletrans==4.0.0-rc1
+pip install Flask requests beautifulsoup4 transformers docx googletrans==4.0.0-rc1
 ```
 
 ---
